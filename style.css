@@ -1,0 +1,158 @@
+
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color:#0066B3 ;
+}
+.navbar-nav{
+    margin-right:130px !important ;
+}
+.active a{
+    border: 1px solid #0066B3 !important;
+    background-color:#0066B3 !important ;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 5px !important;
+}
+.collapse a:hover{
+    border: 1px solid #0066B3 !important;
+    background-color:#0066B3 !important ;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 5px !important;
+}
+
+.collapse a{
+     text-decoration: none !important;
+     color: black !important;
+}
+.social li{
+   list-style: none;
+   display: inline;
+}
+.social a{
+    text-decoration: none;
+} 
+.navbar{
+    background-color: #F7F8FA;
+    padding:5px !important;
+}
+
+.headline{ 
+    background-color: rgb(49, 109, 195); 
+}
+.intro{
+    background-color: #F7F8FA;
+    margin-top: 10px;
+}
+.para{
+    color: #7F7F7F;
+    line-height: 30px;
+    text-align:justify;
+}
+.counter{
+    background-color: #2755E9;
+    padding: 80px;
+}
+.counter1{
+    color: white;
+    font-size: 50px;
+}
+.counter2{
+    color: white;
+    font-size:13px ;
+}
+.container2{
+    background-color: #F7F8FA;
+    padding-bottom: 50px;
+}
+.container2 h4{
+    padding-top: 15px;
+}
+.container7-1{
+    padding:50px;
+    background-color: white;
+    box-shadow:0px 5px 20px 10px #E4E5E7;
+}
+.container7-2{
+    padding:50px ;
+    background-color: white;
+    box-shadow:0px 5px 20px 10px #E4E5E7;
+}
+.container7-1-1{
+    text-align: center;
+}
+.container7-0{
+    font-size: 20px;
+    color: #316DC3;
+}
+.container7-01{
+    font-size: 20px;
+    color: #316DC3;
+}
+.uc{
+   background-color: #F7F8FA;
+   border: 1px solid #EEEEEE;
+   font-size: 7px;
+  padding:10px;
+  margin-bottom: 20px;
+   }
+.imgs{
+    margin-left: 10px;
+    margin-top: 10px;
+} 
+.abc{
+   margin-top: 50px;
+}
+.defg{
+    margin-top: 30px;
+}
+.image-gallery{
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+.image-gallery .col-sm-12 img{
+    height: 250px;
+     width:330px;
+}
+.footer{
+  
+    background-color: #25272E;
+
+}
+.cntctus1 li{
+    display: inline;
+    padding-right: 5px;
+}
+.uf{
+    border-bottom: 1px solid #848588;
+    width: 330px;
+}
+.fu{
+    border-bottom: 2px solid green;
+    width: 50px;
+}
+.copyrite{
+    background-color: #316DD9;
+    color: white;
+}
+.end{
+    float: right;
+     position: fixed;
+    bottom: 40px;
+    left: 1200px; 
+     
+}
+.end li{
+    list-style: none;
+    
+}
+.end a{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    background-color: #666666;
+    padding: 5px 10px 5px 10px;
+}
+
